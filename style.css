@@ -1,0 +1,14 @@
+main{
+    background-image: url(nevado.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+}
+
+img{
+    position: absolute;
+    top: 22%;
+    left: 0;
+    width: 30%;
+}
